@@ -10,4 +10,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-Readjusting the if and else conditions clearly shows what value is being stored and hashed in the variable candidate. The readability imporves since we're determining the candidate value based on input alone rather than assigning and re-checking/re-assigning the candidate value every time. My focus mainly was on determining the 
+Readjusting the if and else conditions clearly shows what value is being stored and hashed in the variable candidate. The readability imporves since we're determining the candidate value based on input alone rather than assigning and re-checking/re-assigning the candidate value every time. My focus mainly was on rearranging the if else blocks so the data flow is clear to determine and that inturn enhanced the readability in my opinion.
